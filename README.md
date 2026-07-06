@@ -20,3 +20,4 @@ System Integration: Gained experience in connecting math-heavy logic with real-t
 
 _ _ _
 *Developed as an independent portfolio (activity/project).*
+A link to the youtube video, where the gameplay is displayed: https://youtu.be/K85D8hOGNyU

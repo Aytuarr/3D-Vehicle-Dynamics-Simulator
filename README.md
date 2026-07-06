@@ -9,7 +9,9 @@ The objective of this project was to design and implement an interactive 3D raci
 Instead of relying on basic arcade physics, this simulator utilizes realistic vehicle parameters managed through code:
 
  Vehicle Dynamics: Finely tuned mass distribution, center of mass, and engine torque curves to simulate realistic acceleration, braking, and longitudinal weight transfer.
+ 
  Tire Friction & Slip Limits: Implemented precise friction materials to handle lateral forces, allowing simulation of realistic tire slip and controlled drifting mechanics.
+ 
  Rigid Body Mechanics: Configured precise mesh colliders and physics materials to calculate kinetic energy transfer and momentum conservation during obstacles impacts.
 
 # Key Engineering Takeaways:
